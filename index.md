@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        #title {text-align: center; color:orangered;font-size:270%;}
+        table, th, {border: 1px solid black; border-collapse: collapse; color:green; text-align: center;}
+        td{border: 1px solid black; border-collapse: collapse; color:orangered; text-align: center;}
+        A {text-decoration: none;color:orangered;}
+        sold{color:red; font-size:200%}
+    </style>
+</head>
+<body style="background-color:black">
+    <p><h2 id="title">ComputerHub.ca</h2><\p>
+    
 
-You can use the [editor on GitHub](https://github.com/stevekiller176/computerhub.ca.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stevekiller176/computerhub.ca.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      <table style="width:100%">
+          <tr>
+              <!--cheapo build-->
+              <th><a href="C:\Users\steve\Documents\cheapo build .html"> <img src="C:\Users\steve\Pictures\computerhub.ca\JPEG_20190731_181753.jpg" alt="ADD LINK" width="500" height="250" /> </a></th></th>
+              <!--white RGB build-->
+              <th> <a href="C:\Users\steve\Documents\computerhub2.html"> <img src="C:\Users\steve\Pictures\computerhub.ca\20200708_195547.jpg" alt="ADD LINK" width="400" height="300" /> </a></th>
+              <!--Master pc-->
+              <th><a href="C:\Users\steve\Documents\computerhub2.html"> <img src="C:\Users\steve\Pictures\computerhub.ca\20190825_204126.jpg" alt="ADD LINK" width="500" height="300" /> </a></th>
+          </tr>
+        <tr>
+            <td><a href="C:\Users\steve\Documents\cheapo build .html">Cheapo build</a></td>
+            <td><a href="C:\Users\steve\Documents\computerhub2.html">White RGB beast</a></td>
+            <td><a href="C:\Users\steve\Documents\computerhub2.html">MASTER build</a></td>
+        </tr>
+        <tr>
+            <td>
+                </p> Spects </p>
+                </p> RTX 2070 </p>
+                </p> RYZEN 5 3600</p>
+                </p> CORSAIR HYDRO SERIES H60 AIO Liquid CPU Cooler </p>
+                <p>Kingston 120GB A400 SSD</p>
+                <p>Samsung Electronics DAV 860 Qvo 1TBl</p>
+                <p>CORSAIR Crystal 280X RGB Micro-ATX Case</p>
+                <p>ASRock B450M Steel Legend AM4 AMD</p>
+                <sold>SOLD</sold>
+            </td>
+            <!--White RGB BEAST SPECS-->
+            <td>
+                </p> Spects </p>
+                </p> RTX 2070 </p>
+                </p> i7 7700k</p>
+                </p> Arctic Freezer 34 Esports </p>
+                <p>Kingston 120GB A400 SSD</p>
+                <p>1tb blue western digital</p>
+                <p>iCUE 220T RGB Airflow</p>
+                <sold>SOLD</sold>
+            </td>
+                
+            <td>
+                </p> Spects </p>
+                </p> RTX 2070 </p>
+                </p> RYZEN 5 3600</p>
+                </p> CORSAIR HYDRO SERIES H60 AIO Liquid CPU Cooler </p>
+                <p>Kingston 120GB A400 SSD</p>
+                <p>Samsung Electronics DAV 860 Qvo 1TBl</p>
+                <p>CORSAIR Crystal 280X RGB Micro-ATX Case</p>
+                <p>ASRock B450M Steel Legend AM4 AMD</p>
+                <sold>SOLD</sold>
+            </td>
+        </tr>
+      </table>
+  </body>
+</html>
